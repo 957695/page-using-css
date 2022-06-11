@@ -1,0 +1,13 @@
+p{
+  background-color: orange;
+
+  width: 200px;
+}
+.second-pae{
+/*visibility: hidden;*/
+background-color: red;
+}
+span{
+  background-color: yellow;
+  width:250px;
+}
